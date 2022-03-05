@@ -1,0 +1,18 @@
+#container{
+    height: 250px;
+    width: 100%;
+}
+.main{
+    height:650px ;
+    width: 100%;
+}
+#container h1{
+    font-size: 30px;
+}
+#container div{
+    font-size: 20px;
+    flex-wrap: wrap;
+}
+.output{
+    font-size: 25px;
+}
